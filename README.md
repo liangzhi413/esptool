@@ -22,4 +22,4 @@ This document and the attached source code are released as Free Software under G
 
 
 
-Recommended Electronic Components Distributors [XECOR CO,.LTD](https://www.xecor.com)) 
+Recommended Electronic Components Distributors [XECOR CO,.LTD](https://www.xecor.com)
